@@ -1,0 +1,16 @@
+[Desktop Entry]
+Comment=A wall with previews of the open windows
+Encoding=UTF-8
+Icon=
+Name=Windows Wall
+Type=Service
+X-KDE-PluginInfo-Author=Bogdan Mihaila
+X-KDE-PluginInfo-Category=Miscellaneous
+X-KDE-PluginInfo-Email=bogdan.mihaila@gmx.de
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=windows-wall
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=KWin/WindowSwitcher
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=code/windowswall.qml
